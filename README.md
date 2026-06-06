@@ -96,27 +96,7 @@ According to the Random Forest model, the most influential features are:
 5. Contract Length
 6. Last Interaction
 
-These factors play a significant role in predicting customer churn.
-
-# ⚙️ Installation
-
-Clone the repository:
-   
-   bash
-git clone https://github.com/your-username/Customer-Churn-Prediction.git
-
-Go to the project directory:
-
-   bash
-cd Customer-Churn-Prediction
-   
-
-Install dependencies:
-
-   bash
-pip install -r requirements.txt
-   
-
+These factors play a significant role in predicting customer churn.   
    
 
 # ▶️ Run the Training Script
